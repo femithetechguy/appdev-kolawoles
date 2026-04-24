@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "title": "App Dev - Kolawoles",
+    "description": "Full-Stack Engineering services - Next.js, NestJS, React, Node.",
+    "openGraph": {
+      "title": "App Dev - Kolawoles",
+      "description": "Full-Stack Engineering portfolio.",
+      "url": "https://appdev.kolawoles.com"
+    }
+  },
+  "nav": {
+    "homeHref": "https://kolawoles.com",
+    "brand": {
+      "primary": "KOLA",
+      "secondary": "WOLES",
+      "subtitle": "App Dev"
+    },
+    "links": [
+      { "label": "Projects", "href": "#projects" },
+      { "label": "Stack", "href": "#stack" },
+      { "label": "About", "href": "#about" },
+      { "label": "Contact", "href": "#contact" }
+    ],
+    "cta": {
+      "label": "Hire Me",
+      "href": "mailto:adefemi@kolawoles.com"
+    }
+  },
+  "hero": {
+    "eyebrow": "Full-Stack Engineering - Built with a business-first approach",
+    "titleLine1": "Products built",
+    "titleLine2": "with intent.",
+    "description": "Full-stack engineer building production web applications with modern TypeScript tooling. From data-driven internal tools to consumer-facing products - clean architecture, thoughtful UX, shipped to prod.",
+    "primaryCta": {
+      "label": "View Projects",
+      "href": "#projects"
+    },
+    "secondaryCta": {
+      "label": "Get in Touch",
+      "href": "mailto:adefemi@kolawoles.com"
+    },
+    "scrollHint": "Scroll"
+  },
+  "sections": {
+    "projects": {
+      "eyebrow": "Selected Projects",
+      "title": "What I've Built"
+    },
+    "stack": {
+      "eyebrow": "Technical Depth",
+      "title": "Stack"
+    },
+    "about": {
+      "eyebrow": "Background",
+      "title": "About"
+    }
+  },
+  "projects": [
+    {
+      "name": "Bites by Bee",
+      "type": "E-Commerce Store",
+      "period": "2024",
+      "description": "Online storefront and brand website for Bites by Bee, focused on product presentation and customer conversion.",
+      "tags": ["Next.js", "React", "TypeScript", "E-Commerce"],
+      "live": "https://bitesbybee.store/",
+      "accent": false
+    },
+    {
+      "name": "All Love in a Basket",
+      "type": "E-Commerce Store",
+      "period": "2024",
+      "description": "Customer-facing e-commerce experience for gift products, built for discoverability and a clean checkout journey.",
+      "tags": ["Next.js", "React", "TypeScript", "E-Commerce"],
+      "live": "https://allloveinabasket.com/",
+      "accent": false
+    },
+    {
+      "name": "Myy Signature Myy Style",
+      "type": "Brand Website",
+      "period": "2024",
+      "description": "Brand-led web experience designed to showcase style offerings, visual identity, and customer engagement.",
+      "tags": ["Next.js", "React", "TypeScript", "Branding"],
+      "live": "https://myysignaturemyystyle.com/",
+      "accent": false
+    },
+    {
+      "name": "Chorister Corner Songs",
+      "type": "Music Resource Platform",
+      "period": "2024",
+      "description": "Songs catalog and browsing experience for choristers, focused on structured content access and usability.",
+      "tags": ["Web Platform", "Content", "Music", "UX"],
+      "live": "https://www.choristercorner.com/songs",
+      "accent": false
+    },
+    {
+      "name": "Glamor by Bee",
+      "type": "Beauty Brand Website",
+      "period": "2024",
+      "description": "Beauty-focused brand website with an emphasis on presentation, storytelling, and lead generation.",
+      "tags": ["Next.js", "React", "TypeScript", "Branding"],
+      "live": "https://www.glamorbybee.com/",
+      "accent": false
+    },
+    {
+      "name": "Emerging L",
+      "type": "Business Website",
+      "period": "2024",
+      "description": "Marketing website for Emerging L with clear service messaging and conversion-focused page structure.",
+      "tags": ["Next.js", "React", "TypeScript", "Business"],
+      "live": "http://emergingl.com/",
+      "accent": false
+    },
+    {
+      "name": "F Melody Music",
+      "type": "Music Brand Website",
+      "period": "2024",
+      "description": "Music artist/brand web presence built to showcase identity, updates, and audience engagement touchpoints.",
+      "tags": ["Web Platform", "Music", "Branding", "Content"],
+      "live": "http://fmelodymusic.com/",
+      "accent": false
+    }
+  ],
+  "stack": [
+    {
+      "category": "Frontend",
+      "items": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "Framer Motion",
+        "Vite"
+      ]
+    },
+    {
+      "category": "Backend",
+      "items": ["NestJS", "Node.js", "Express", "Prisma", "REST", "GraphQL"]
+    },
+    {
+      "category": "Database",
+      "items": ["PostgreSQL", "Neon", "Supabase", "Redis"]
+    },
+    {
+      "category": "Auth & Services",
+      "items": ["Azure AD", "NextAuth", "Resend", "Cloudinary", "Stripe"]
+    },
+    {
+      "category": "DevOps",
+      "items": ["Vercel", "Docker", "GitHub Actions", "CI/CD"]
+    },
+    {
+      "category": "Languages",
+      "items": ["TypeScript", "JavaScript", "Python", "SQL"]
+    }
+  ],
+  "about": {
+    "paragraphs": [
+      "I deliver full-stack web engineering services with a strong focus on TypeScript, clean API design, and maintainable product architecture.",
+      "I combine application engineering with BI consulting capability to deliver data-informed platforms that improve reporting, operations, and business decision-making."
+    ]
+  },
+  "contact": {
+    "eyebrow": "Open to Projects",
+    "title": "Let's build something.",
+    "email": "adefemi@kolawoles.com",
+    "ctaHref": "mailto:adefemi@kolawoles.com"
+  },
+  "footer": {
+    "copyrightName": "Kolawoles",
+    "links": [
+      { "label": "Hub", "href": "https://kolawoles.com" },
+      { "label": "Data", "href": "https://data.kolawoles.com" }
+    ]
+  }
+}
